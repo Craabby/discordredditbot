@@ -1,1 +1,3 @@
 # discordredditbot
+
+## Setup
